@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Python Video Downloader](https://github.com/NatsuYukiHaruhana/Video-Downloader)
 
-- 🌱 I’m currently learning **Godot, Javascript**
-
 - 😄 Pronouns: she/her, they/them, he/him
 
 ###
