@@ -43,7 +43,7 @@
 
 <h2 align="center">🖥️Languages and Tools🖥️</h2>
 
-<img align="right" height="300" src="https://media1.tenor.com/m/uWHd-STTyFIAAAAE/asteroid-in-love-mari-morino.gif"  />
+<img align="right" height="350" src="https://media1.tenor.com/m/uWHd-STTyFIAAAAE/asteroid-in-love-mari-morino.gif"  />
 
 <h3 align="center">⚙️Used in a professional environment⚙️</h3>
 <p align="center"> 
