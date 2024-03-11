@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi, I'm NatsuYuki👋</h1>
 <h3 align="center">A passionate software developer from Romania</h3>
 
-- 🔭 I’m currently working on [Python Video Downloader](https://github.com/NatsuYukiHaruhana/Video-Downloader)
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com)
 
 - 😄 Pronouns: she/her, they/them, he/him
 
